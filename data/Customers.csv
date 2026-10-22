@@ -1,0 +1,22 @@
+﻿Customer ID,Name,Email,Status,Active Date,Churned Date
+1001,Customer_1,customer1@example.com,Active,11-04-22,
+1002,Customer_2,customer2@example.com,Churned,01-24-22,12-06-22
+1003,Customer_3,customer3@example.com,Churned,05-08-22,02-06-23
+1004,Customer_4,customer4@example.com,Active,04-05-22,
+1005,Customer_5,customer5@example.com,Active,12-04-22,
+1006,Customer_6,customer6@example.com,Active,11-24-22,
+1007,Customer_7,customer7@example.com,Active,09-03-22,
+1008,Customer_8,customer8@example.com,Churned,10-14-22,06-13-23
+1009,Customer_9,customer9@example.com,Active,01-01-22,
+1010,Customer_10,customer10@example.com,Churned,02-07-22,08-05-22
+1011,Customer_11,customer11@example.com,Active,04-17-22,
+1012,Customer_12,customer12@example.com,Churned,10-01-22,04-29-23
+1013,Customer_13,customer13@example.com,Churned,09-07-22,01-10-24
+1014,Customer_14,customer14@example.com,Active,12-21-22,
+1015,Customer_15,customer15@example.com,Active,12-18-22,
+1016,Customer_16,customer16@example.com,Active,07-08-22,
+1017,Customer_17,customer17@example.com,Active,08-19-22,
+1018,Customer_18,customer18@example.com,Active,05-26-22,
+1019,Customer_19,customer19@example.com,Active,01-25-22,
+1020,Customer_20,customer20@example.com,Active,03-23-22,
+
